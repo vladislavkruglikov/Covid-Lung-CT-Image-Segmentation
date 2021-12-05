@@ -1,7 +1,7 @@
 # Covid Lung CT Image Segmentation 👩‍⚕️
 
-- Understandable pipeline
-- Augementations
+- Build simple and reliable pipeline
+- Increased dataset size by applying augumentations
 - Achived Dice & Tversky Score more than **60%**
 
 ![download](https://user-images.githubusercontent.com/55096567/144767286-87125d83-af18-4ea1-9736-27a60b45f131.png)
