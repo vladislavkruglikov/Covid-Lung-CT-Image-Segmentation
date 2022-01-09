@@ -1,5 +1,6 @@
 # Covid Lung CT Image Segmentation 👩‍⚕️
 
+- [Kaggle Contest](https://www.kaggle.com/c/tgcovid)
 - Build simple and reliable pipeline
 - Increased dataset size by applying augumentations
 - Achived Dice & Tversky Score more than **60%**
